@@ -463,8 +463,8 @@ pip install numpy pandas matplotlib gdown tqdm jupyter
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone <https://github.com/hamidmehranfar/movie-recommender-matrix-factorization-whale-optimization.git>
+cd <movie-recommender-matrix-factorization-whale-optimization>
 ```
 
 Install the dependencies:
